@@ -4,7 +4,7 @@
 
 This is my page to showcase my data analysis projects.
 
-<img src="images/demo.gif?raw=true"/>
+<img src="images/Cyclistic.png?raw=true"/>
 
 
 ### Projects
