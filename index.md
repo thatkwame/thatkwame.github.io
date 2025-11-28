@@ -12,7 +12,7 @@
 <img src="projects/japa/Japa.png?raw=true"/>
 
 ---
-[DS Learn](/DA_with_Python_contd)
+[DS Learn](/bmi_calc)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
