@@ -12,7 +12,7 @@
 <img src="projects/japa/Japa.png?raw=true"/>
 
 ---
-[DA Learn](/DA_with_Python_contd)
+[DS Learn](/DA_with_Python_contd)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -21,7 +21,6 @@
 
 - [Sankofa Insights](http://linkedin.com/company/sankofa-insights)
 - [Global EdTech Policy Institute](http://linkedin.com/company/global-edtech-policy-institute)
-- 
 
 ---
 
