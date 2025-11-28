@@ -2,16 +2,12 @@
 This is to calculate the BMI
 
 Formula
-'''python
-{
+```python
+
   name = input("Enter your name: ")
-  
   weight = int(input("Enter your weight (in kg): "))
-  
   height = int(input("Enter your height (in cm): "))
-  
   conv_height = height/100
-  
   bmi = round(weight/(conv_height**2), 2)
   
   print(f"Hi {name}, your BMI is {bmi}")
@@ -28,5 +24,5 @@ Formula
       print("You are severly obese\nHealth Risk: Very High")
   else:
       print("You are morbidly obese\nHealth Risk: Extremely High")
-  }
-  '''
+  
+  ```
