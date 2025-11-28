@@ -12,7 +12,7 @@
 <img src="projects/japa/Japa.png?raw=true"/>
 
 ---
-[DS Learn](/projects/bmi_calc)
+[BMI Calculator](/projects/bmi_calc.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
