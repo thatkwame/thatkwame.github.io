@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Data Science
 
 [Chicago Bikeshare Project](/sample_page)
 <img src="images/Cyclistic.png?raw=true"/>
@@ -12,18 +12,16 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[DA Learn](/DA_with_Python_contd.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Businesses
 
-- [Chicago Bikeshare](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Sankofa Insights](http://linkedin.com/company/sankofa-insights)
+- [Global EdTech Policy Institute](http://linkedin.com/company/global-edtech-policy-institute)
+- 
 
 ---
 
