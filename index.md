@@ -8,8 +8,8 @@
 <img src="images/Cyclistic.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Japa](/projects/japa/japa.pdf)
+<img src="projects/japa/Japa.png?raw=true"/>
 
 ---
 [DA Learn](/DA_with_Python_contd)
