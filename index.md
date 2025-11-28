@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[DA Learn](/DA_with_Python_contd.ipynb)
+[DA Learn](/DA_with_Python_contd)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
